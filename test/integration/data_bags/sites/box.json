@@ -1,0 +1,8 @@
+{
+    "id": "devbox",
+    "host": "devbox",
+    "docroot":"/vagrant/public/box/",
+    "aliases": [
+        "box.lvh.me"
+    ]
+}
